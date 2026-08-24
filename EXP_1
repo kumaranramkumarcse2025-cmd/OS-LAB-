@@ -1,0 +1,7 @@
+winver - Display Windows Version
+systeminfo - Display System Information 
+hostname -  Display Computer Name
+diskpart - Display Disk Information
+list disk -Display Disk Information
+slmgr /xpr - Check Windows Activation Status
+ipconfig - Display IP Configuration 
