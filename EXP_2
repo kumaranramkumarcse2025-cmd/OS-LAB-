@@ -1,0 +1,12 @@
+1. Display Kernel Information 
+    $ uname -a 
+2. Display Operating System Details 
+    $ cat /etc/os-release 
+3. Display Current User 
+    $ whoami 
+4. Display Hostname 
+    $ hostname 
+5. Display System Information 
+    $ lscpu 
+6. Display Disk Usage 
+    $ df -h
